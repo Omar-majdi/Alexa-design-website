@@ -116,6 +116,7 @@ body {
   font-size: var(--normal-font-size);
   background-color: var(--body-color);
   color: var(--text-color);
+  transition: 0.4s;
 }
 
 h1,
@@ -179,6 +180,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: var(--body-color);
+  transition: 0.4s;
 }
 
 .relative {
@@ -196,6 +198,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  transition: 0.4s;
 }
 
 .nav__logo,
@@ -1027,6 +1030,7 @@ img {
 
   .nav__menu {
     padding: 2rem 0.25rem 4rem;
+    transition: 0.4s;
   }
 
   .nav__list {
@@ -1161,6 +1165,7 @@ img {
 
   .nav__menu {
     margin-left: auto;
+    transition: 0.4s;
   }
 
   .change-theme {
