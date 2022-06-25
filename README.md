@@ -12,4 +12,5 @@
 - High performance.
 
 💙 [Email](omarmajdi115@gmail.com) || [Instagram](https://www.instagram.com/omar_majdi_r/)
+
 ![Resume cv](/preview.png)
